@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alun Williams, Developer, Launches Site"
+title: "Alun Williams, Software Engineer, Launches Site"
 date: 2017-02-04
 ---
 
