@@ -1,4 +1,8 @@
-# Deploying a Python AWS Lambda function (badly)
+---
+layout: post
+title: "Deploying a Python AWS Lambda function (badly)"
+date: 2020-02-06
+---
 
 ## Setting up PIP and python locally
 
