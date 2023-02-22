@@ -23,8 +23,8 @@ The path had rarely been used and it took a bit of wall following to find a gate
 Back on the road I decided I would try the cross moor route to the transmitter on Moudy Mea (Moudy is scots for Mole don't you know). I knew this would be rough ground but again followed the wall and found it to be just about runnable and only a little boggy. Around half way there was a substantial sheep fold ruin, which may have had a barn attached once?
 
 <figure>
-<img src="/assets/2023-02-22/IMG_20230218_161454.jpg" alt="" width="100%"/>
-<figcaption>A study of wall and drizzle</figcaption>
+<img src="/assets/2023-02-22/IMG_20230218_163340.jpg" alt="" width="100%"/>
+<figcaption>A useful track appears, but where does it go</figcaption>
 </figure>
 
 Once at the transmitter I jogged back and enjoyed the fact I had achey legs from a couple of days in a row running. I hopped over the bridge wall to access the top of Mousegill Beck and followed the edge round back to the farm. A truly spectacular place even on a misty day.
@@ -34,4 +34,4 @@ Once at the transmitter I jogged back and enjoyed the fact I had achey legs from
 <figcaption>Mousegill Beck passing through gorge on the farm</figcaption>
 </figure>
 
-The day before I had climbed up through the gorge on an entirely dry river bed, as the water had mostly found a way through the limestone in a more direct route under ground. However as it had been raining it was no longer dry so wold have been a bit too "sporting" to descend.
+The day before I had climbed up through the gorge on an entirely dry river bed, as the water had mostly found a way through the limestone in a more direct route under ground. However as it had been raining it was no longer dry so would have been a bit too "sporting" to descend.
